@@ -100,6 +100,6 @@ Greatest Decrease in Profits: {months[pl_chg_min_index]} (${pl_chg_min:,})\n"
 print(analysis_results)
 
 # Export analysis results to text file
-output_path = os.path.join("Analysis", "PyBank_analysis_results.txt")
+output_path = os.path.join("PyBank_Analysis", "PyBank_analysis_results.txt")
 with open(output_path, "w") as PyBank_txt:
     PyBank_txt.write(analysis_results)
