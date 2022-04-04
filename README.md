@@ -1,5 +1,5 @@
 # python-challenge
-Python Homework - Py Me Up, Charlie
+Py Me Up, Charlie
 
 ## PyBank
 * In this challenge, the task is creating a Python script for analyzing the financial records of a company. A set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
